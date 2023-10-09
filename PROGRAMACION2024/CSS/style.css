@@ -1,0 +1,29 @@
+body{
+    background-color: #000000;
+}
+#content{
+    width: 70%;
+    margin: 0 auto;
+    height: 1000px;
+}
+.left{
+    width: 30%;
+    float: left;
+    background-color: #F1F1F1;
+  padding: 3%;
+    height: 1000px;
+
+}
+.left img{
+    width: 200px;
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+    padding-top: 20px
+}
+.right{
+    width: 70%;
+    float: right;
+    background-color: #FEFEFE;
+    height: 1000px;
+}
