@@ -1,29 +1,36 @@
 body{
-    background-color: #000000;
+    background-color:#FEFEFE;
+    color: black;
+}
+h1, h2, h4{
+    text-transform: uppercase;
+}
+h2{
+    border-bottom: 3px solid #000000;
+}
+h3{
+    border-bottom: 10px solid #000000;
 }
 #content{
-    width: 70%;
+    width: 89%;
     margin: 0 auto;
-    height: 1000px;
 }
 .left{
-    width: 30%;
+    width: 32%;
     float: left;
-    background-color: #F1F1F1;
-  padding: 3%;
+    background-color:#eee3e3;
+    padding: 3%;
     height: 1000px;
-
 }
 .left img{
     width: 200px;
     display: block;
     margin: auto;
     border-radius: 50%;
-    padding-top: 20px
+    
 }
 .right{
-    width: 70%;
+    width: 62%;
     float: right;
-    background-color: #FEFEFE;
-    height: 1000px;
+    background-color: beige;
 }
